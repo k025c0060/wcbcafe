@@ -32,6 +32,11 @@ img {
     margin-top: 2rem;
     line-height: 1.4;
 }
+.heading-large {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
 /*
 .cover {
     background-size: cover;
@@ -62,12 +67,6 @@ img {
 }
 .main-nav a:hover {
     color: #0bd;
-}
-
-.heading-large {
-    font-size: 3rem;
-    text-align: center;
-    margin-bottom: 2rem;
 }
 
 .about {
